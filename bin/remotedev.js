@@ -28,6 +28,8 @@ function getModuleName(type) {
     // react-native-macos is renamed from react-native-desktop
     case 'desktop':
       return 'react-native-desktop';
+	case 'yoco-react-native':
+		return '@yoco-tech/react-native';
     case 'reactnative':
     default:
       return 'react-native';
