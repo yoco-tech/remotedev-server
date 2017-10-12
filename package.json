@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zalmoxisus/remotedev-server.git"
+    "url": "https://github.com/yoco-tech/remotedev-server.git"
   },
   "keywords": [
     "devtools",
@@ -22,9 +22,9 @@
   "author": "Mihail Diordiev <zalmoxisus@gmail.com> (https://github.com/zalmoxisus)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zalmoxisus/remotedev-server/issues"
+    "url": "https://github.com/yoco-tech/remotedev-server/issues"
   },
-  "homepage": "https://github.com/zalmoxisus/remotedev-server",
+  "homepage": "https://github.com/yoco-tech/remotedev-server",
   "dependencies": {
     "body-parser": "^1.15.0",
     "chalk": "^1.1.3",
